@@ -1,0 +1,33 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    color: blue;
+}
+
+.label {
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+#titulo1 {
+    color: blue;
+    background-color: rgb(189, 226, 132);
+    text-align: center;
+    width: auto;
+    height: 40px;
+}
+
+#titulo2 {
+    color: rgb(209, 17, 107);
+    font-style:italic;
+}
+
+#linha {
+    color: black;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(128, 128, 128);
+
+}
